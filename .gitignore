@@ -1,0 +1,35 @@
+# Entorno de desarrollo de Visual Studio Code
+.vscode/
+.settings/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyi
+*.pyre
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+*.egg-info/*
+*.dist-info/
+
+# Virtual environments (Entornos virtuales)
+venv/
+env/
+env.bak/
+env1/
+venv1/
+env2/
+venv2/
+.venv/
+.venv.bak/
+
+# Otros
+.DS_Store
+Thumbs.db
